@@ -1,0 +1,57 @@
+{
+  "fullName": "khalid jibrin",
+  "jobTitle": "Software Engineer",
+  "selfJobDescription": [
+    "I am a passionate front-end software engineer with a knack for crafting user-centric interfaces. I bring [X years] of experience building interactive and visually appealing web applications utilizing a diverse front-end tech stack. My core skillset lies in wielding HTML, CSS (including preprocessors like SASS), and JavaScript (with libraries like React or Vue.js) to bring designer visions to life. I'm well-versed in responsive design principles, ensuring seamless experiences across desktops, tablets, and mobile devices.",
+    "Beyond core languages, I actively explore and integrate cutting-edge front-end tools to enhance development efficiency and user experience. This includes utilizing task runners like Gulp or Webpack for streamlined automation, and leveraging UI component libraries like Material-UI or Bootstrap for rapid prototyping and consistent design. I'm a strong believer in clean, maintainable code and advocate for best practices like unit testing and code reviews.",
+    "I'm eager to contribute my skills and enthusiasm to a team that prioritizes user experience and embraces innovative front-end technologies."
+  ],
+  "skillsList": [
+    "Angular",
+    "Ui Design",
+    "Java Development",
+    "ReactJs",
+    "HTML",
+    "CSS",
+    "Management",
+    "UX Design",
+    "Python",
+    "Vue Js",
+    "C#"
+  ],
+  "gender": "Male",
+  "residence": "Kogi State",
+  "experienceLevel": "Intermediate",
+  "contacts": [
+    { "display": "khalidjibrin@gmail.com", "value": "khalidjibrin@gmail.com" },
+    { "display": "+2347039501813", "value": "+2347039501813" }
+  ],
+  "experience": [
+    {
+      "company": "Cad Consulting",
+      "position": "Software Engineer"
+    },
+    {
+      "company": "Cad Consulting",
+      "position": "Software Engineer"
+    },
+    {
+      "company": "Cad Consulting",
+      "position": "Software Engineer"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "React",
+      "certificationSource": "myReactCertificate.com"
+    },
+    {
+      "name": "React",
+      "certificationSource": "myReactCertificate.com"
+    },
+    {
+      "name": "React",
+      "certificationSource": "myReactCertificate.com"
+    }
+  ]
+}

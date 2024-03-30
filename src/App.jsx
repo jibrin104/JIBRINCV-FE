@@ -1,14 +1,16 @@
 import { useEffect, useState } from "react";
 import "./App.css";
 import axios from "axios";
+import data from './info.json'
 
 function App() {
   const [profileData, setProfileData] = useState();
 
   useEffect(() => {
-    axios.get("http://localhost:3000/profile-data").then((p) => {
-      setProfileData(p.data.data);
-    });
+    // axios.get("http://localhost:3000/profile-data").then((p) => {
+    //   setProfileData(p.data.data);
+    // });
+      setProfileData(data);
   }, []);
   return (
     <>
